@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 20px 50px;
+}
+.compilazione {
+    width: 40%;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+h4 {
+    padding: 5px;
+    margin: 5px;
+    border-bottom: 1px solid black;
+}
+
+.risultante {
+    width: 40%;
+    margin: 0 auto;
+    background-color: lightcoral;
+}
