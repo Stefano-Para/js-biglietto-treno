@@ -5,11 +5,11 @@
 }
 
 body {
-    padding: 20px 50px;
+    padding: 50px;
 }
 .compilazione {
     width: 40%;
-    margin: 0 auto;
+    margin: 20px auto;
     background-color: lightblue;
 }
 h4 {
@@ -20,6 +20,6 @@ h4 {
 
 .risultante {
     width: 40%;
-    margin: 0 auto;
+    margin: 20px auto;
     background-color: lightcoral;
 }
